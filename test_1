@@ -1,5 +1,3 @@
-Тестовое задание №1
-
 SELECT 
     task_status.issue_key AS N,
     task_info.name AS name
